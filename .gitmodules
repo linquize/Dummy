@@ -1,6 +1,6 @@
 [submodule "ModuleB"]
 	path = ModuleB
-	url = http://git.apache.org/apr-util.git
+	url = git://repo.or.cz/tgit.git
 [submodule "ModuleB2"]
 	path = ModuleB2
-	url = https://code.google.com/p/tortoisegit.tgit
+	url = https://git.gitorious.org/statusnet/mainline.git
