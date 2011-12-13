@@ -1,6 +1,6 @@
 [submodule "ModuleB"]
 	path = ModuleB
-	url = ../B
+	url = B.git
 [submodule "ModuleB2"]
 	path = ModuleB2
 	url = ../B.git
