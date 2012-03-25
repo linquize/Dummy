@@ -1,1 +1,4 @@
-134
+jquery slideshow
+http://jquerytools.org/release-notes/
+http://slidesjs.com/
+http://www.agilecarousel.com/
