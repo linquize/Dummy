@@ -5,7 +5,17 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [114.0, 22.13]
+        "coordinates": [114.17052, 22.31981]
+      },
+      "properties": {
+        "prop0": "value0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.18882, 22.32209]
       },
       "properties": {
         "prop0": "value0"
