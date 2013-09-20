@@ -1,0 +1,68 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.18904, 22.32255]
+      },
+      "properties": {
+        "name": "新站"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.18799, 22.31784]
+      },
+      "properties": {
+        "name": "蘋果"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.18667, 22.31078]
+      },
+      "properties": {
+        "name": "北拱"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.18679, 22.30596]
+      },
+      "properties": {
+        "name": "仁孚"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.14090, 22.33709]
+      },
+      "properties": {
+        "name": "美孚"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.18799, 22.31784], [114.18848, 22.31870], [114.18893, 22.31854], [114.19047, 22.32167], 
+          [114.18893, 22.32235], [114.18981, 22.32410], [114.18872, 22.32467], 
+          [114.18959, 22.32674], [114.18919, 22.32749], [114.17221, 22.32473], [114.16685, 22.32374],
+          [114.15546, 22.33249], [114.15713, 22.33460], [114.15196, 22.33841], [114.14672, 22.33676],
+          [114.14458, 22.33620], [114.14117, 22.33664], [114.14090, 22.33709]
+        ]
+      }
+    }
+  ]
+}
